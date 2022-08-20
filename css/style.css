@@ -1,31 +1,30 @@
 body {
-font-family: 'lato', sans-serif;
-font-size: 1em;
-color: #a2e8dd;
-text-align: left;
+  font-family: 'lato', sans-serif;
+  font-size: 1em;
+  text-align: left;
 }
 
 ul, 
 ol {
-list-style: none;
-margin: 0;
-padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-a {
-color: #a2e8dd;
-text-decoration: none;
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.25em;
+  font-weight: 700;
+  margin: 0;
 }
 
-h1, h2, h3 {
-font-family: 'Playfair+display', serif;
-font-size: 2.25em;
-font-weight: 700;
-margin: 0;
-color: #a2e8dd;
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
 }
 
 h4 {
+  font-family: 'Playfair Display', serif;
 }
 
 p {
