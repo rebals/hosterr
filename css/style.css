@@ -39,3 +39,10 @@ margin: 0;
 width: 90%;
 margin: 0 auto;
 }
+
+/******Headef*******/
+
+.logo-header {
+  width: 50%;
+  font-size: .85em;
+}
