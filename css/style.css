@@ -39,9 +39,14 @@ margin: 0;
 width: 90%;
 margin: 0 auto;
 }
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
 
-/******Headef*******/
-
+/******Header*******/
+.content-wrapper
 .logo-header {
   width: 50%;
   font-size: .85em;
