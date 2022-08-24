@@ -31,23 +31,15 @@ img {
 width: 100%;
 }
 
-figure {
-margin: 0;
-}
-
 .content-wrapper {
 width: 90%;
 margin: 0 auto;
 }
-.content-wrapper {
-  display: flex;
-  justify-content: center;
-  flex-flow: row wrap;
-}
 
 /******Header*******/
-.content-wrapper
+
 .logo-header {
-  width: 50%;
+  padding: 15px 20px;
+  width: 45%;
   font-size: .85em;
 }
